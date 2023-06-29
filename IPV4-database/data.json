@@ -1,11 +1,1 @@
-
-File ~\!#:284, in _modified_open(file, *args, **kwargs)
-    277 if file in {0, 1, 2}:
-    278     raise ValueError(
-    279         f" "
-    280         " "
-    281         "."
-    282     )
---> 284 return io_open(file, *args, **kwargs)
-
-FileNotFoundError: [Errno 2] No such file or directory: 'ipv4. json'
+[
