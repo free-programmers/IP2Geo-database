@@ -9,3 +9,7 @@ this repo contains:
     - List of the IPv4 range of all countries
     - List of the IPv6 range of all countries
   
+total IPV4 range: 3,141,352
+total IPV6 range: 3,141,352
+total country info: 250
+total country DNS-Server: 250
