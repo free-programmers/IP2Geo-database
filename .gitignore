@@ -160,7 +160,8 @@ cython_debug/
 #.idea/
 
 
-*.json
 *.csv
 *.py
 updater.py
+dbv4.CSV
+dbv6.CSV
