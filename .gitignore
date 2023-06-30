@@ -165,5 +165,3 @@ cython_debug/
 updater.py
 dbv4.CSV
 dbv6.CSV
-DNS-database/*
-DNS-database/
