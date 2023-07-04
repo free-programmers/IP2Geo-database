@@ -602,8 +602,6 @@ total country DNS-Server: 250
 
 ```
 
-Sure! Here's an explanation of the fields in the record you provided:
-
 1. NAME:
    - "common": The common name of the country is "United States."
    - "official": The official name of the country is "United States of America."
