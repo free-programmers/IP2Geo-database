@@ -649,3 +649,94 @@ total country DNS-Server: 250
     
     - "suffixes": There are several suffixes or area codes that can be appended after the root code to dial specific regions within the United States, such as "201," "202," "203," "205," "206," and so on.
 
+
+
+- CAPITAL: The capital city of the United States is "Washington, D.C."
+
+- ALTSPELLINGS: Alternate spellings or names for the United States include "US," "USA," and "United States of America."
+
+- REGION: The United States is located in the "Americas" region.
+
+- SUBREGION: The United States is situated in the "North America" subregion.
+
+- LANGUAGES: The official language spoken in the United States is English ("eng").
+
+- TRANSLATIONS: These are translations of the country's name into various languages:
+   - "ara": Arabic translation: "الولايات المتحدة الامريكية"
+   - "bre": Breton translation: "Stadoù-Unanet Amerika"
+   - "ces": Czech translation: "Spojené státy americké"
+   - "cym": Welsh translation: "United States of America"
+   - "deu": German translation: "Vereinigte Staaten von Amerika"
+   - "est": Estonian translation: "Ameerika Ühendriigid"
+   - "fin": Finnish translation: "Amerikan yhdysvallat"
+   - "fra": French translation: "Les États-Unis d'Amérique"
+   - "hrv": Croatian translation: "Sjedinjene Države Amerike"
+   - "hun": Hungarian translation: "Amerikai Egyesült Államok"
+   - "ita": Italian translation: "Stati Uniti d'America"
+   - "jpn": Japanese translation: "アメリカ合衆国"
+   - "kor": Korean translation: "미국"
+   - "nld": Dutch translation: "Verenigde Staten van Amerika"
+   - "per": Persian translation: "ایالات متحده آمریکا"
+   - "pol": Polish translation: "Stany Zjednoczone Ameryki"
+   - "por": Portuguese translation: "Estados Unidos da América"
+   - "rus": Russian translation: "Соединенные Штаты Америки"
+   - "slk": Slovak translation: "Spojené štáty Americké"
+   - "spa": Spanish translation: "Estados Unidos de América"
+   - "srp": Serbian translation: "Сједињене Америчке Државе"
+   - "swe": Swedish translation: "Amerikas förenta stater"
+   - "tur": Turkish translation: "Amerika Birleşik Devletleri"
+   - "urd": Urdu translation: "ریاستہائے متحدہ امریکا"
+   - "zho": Chinese translation: "美利坚合众国"
+
+
+- LATLNG: The latitude and longitude coordinates of the United States are approximately 38.0 (latitude) and -97.0 (longitude).
+
+- LANDLOCKED: The value is "false," indicating that the United States is not landlocked and has coastlines.
+
+- BORDERS: The United States shares borders with two countries: Canada ("CAN") and Mexico ("MEX").
+
+- AREA: The land area of the United States is approximately 9,372,610 square kilometers.
+
+- DEMONYMS: These are terms used to refer to people from the United States in different languages:
+   - English ("eng"): "American" (both feminine and masculine)
+   - French ("fra"): "Américaine" (feminine) and "Américain" (masculine)
+
+- FLAG: The flag of the United States is represented by the Unicode character "\ud83c\uddfa\ud83c\uddf8".
+
+- MAPS: These are links to maps of the United States:
+   - Google Maps: "https://goo.gl/maps/e8M246zY4BSjkjAv6"
+   - OpenStreetMaps: "https://www.openstreetmap.org/relation/148838#map=2/20.6/-85.8"
+
+- POPULATION: The estimated population of the United States is approximately 329,484,123.
+
+- GINI: The Gini coefficient measures income inequality. The value for 2018 is 41.4 for the United States.
+
+- FIFA: The FIFA code for the United States is "USA."
+
+- CAR: Information about driving in the United States:
+    - Road signs: The road signs in the United States display the code "USA."
+    - Driving side: The driving side in the United States is the right side of the road.
+
+- TIMEZONES: The United States encompasses multiple time zones, including UTC-12:00 to UTC-04:00 and UTC+10:00 to UTC+12:00.
+
+- CONTINENTS: The United States is located on the continent of "North America."
+
+- FLAGS: These are links to images of the flag of the United States:
+    - PNG format: "https://flagcdn.com/w320/us.png"
+    - SVG format: "https://flagcdn.com/us.svg"
+    - Description: The flag consists of thirteen horizontal red and white stripes and a blue rectangle with fifty white stars representing the states.
+
+- COATOFARMS: These are links to images of the coat of arms of the United States:
+    - PNG format: "https://mainfacts.com/media/images/coats_of_arms/us.png"
+    - SVG format: "https://mainfacts.com/media/images/coats_of_arms/us.svg"
+
+- STARTOFWEEK: The week in the United States starts on "Sunday."
+
+- CAPITALINFO: The latitude and longitude coordinates of Washington, D.C. (the capital city of the United States) are approximately 38.89 (latitude) and -77.05 (longitude).
+
+- POSTALCODE: The postal code format in the United States is "#####-####" (five digits followed by an optional hyphen and four additional digits). The regular expression regex is "^\\d{5}(-\\d{4})?$".
+
+- PUBLIC-KEY: This field contains a public key associated with the record.
+
+- X-PROVIDE:  "https://ip2geo.ir," source or provider of the data.
+
