@@ -736,6 +736,10 @@ total country DNS-Server: 250
 
 - POSTALCODE: The postal code format in the United States is "#####-####" (five digits followed by an optional hyphen and four additional digits). The regular expression regex is "^\\d{5}(-\\d{4})?$".
 
+
+
+
+ip2geo.ir - ip2location.com -
 - PUBLIC-KEY: This field contains a public key associated with the record.
 
 - X-PROVIDE:  "https://ip2geo.ir," source or provider of the data.
