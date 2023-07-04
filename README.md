@@ -23,6 +23,8 @@ total country DNS-Server: 250
 ## info:
 
 #### ipv4 database :
+
+0.0 example:
 ```json
 
    {
