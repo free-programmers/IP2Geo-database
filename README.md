@@ -20,11 +20,11 @@ total country DNS-Server: 250
 
 
 
-## info:
+# info-helper:
 
-#### ipv4 database :
+## ipv4 database :
 
-0.0 example:
+0.0 a record example:
 ```json
 
    {
