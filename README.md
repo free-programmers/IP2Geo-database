@@ -602,34 +602,34 @@ total country DNS-Server: 250
 
 ```
 
-1. NAME:
-   - "common": The common name of the country is "United States."
-   - "official": The official name of the country is "United States of America."
-   - "nativeName": The native name of the country in English is the same as the official name ("United States of America").
+    - NAME:
+       - "common": The common name of the country is "United States."
+       - "official": The official name of the country is "United States of America."
+       - "nativeName": The native name of the country in English is the same as the official name ("United States of America").
 
-2. TLD (Top-Level Domain):
-   - [".us"]: The internet top-level domain for websites registered in the United States is ".us."
+    - TLD (Top-Level Domain):
+       - [".us"]: The internet top-level domain for websites registered in the United States is ".us."
 
-3. CCA2: The two-letter country code for the United States is "US."
-
-4. CCN3: The three-digit country code for the United States is "840."
-
-5. CCA3: The three-letter country code for the United States is "USA."
-
-6. CIOC: The International Olympic Committee (IOC) code for the United States is "USA."
-
-7. INDEPENDENT: It indicates that the United States is an independent country.
-
-8. STATUS: The status of the country is "officially assigned."
-
-9. UNMEMBER: It indicates that the United States is a member of the United Nations.
-
-10. CURRENCIES:
-    - USD: The currency used in the United States is the United States dollar (USD).
-      - "name": The official name of the currency is "United States dollar."
-      - "symbol": The symbol used to represent the currency is "$."
-
-11. IDD (International Direct Dialing):
-    - "root": The root international dialing code for making phone calls to the United States is "+1."
-    - "suffixes": There are several suffixes or area codes that can be appended after the root code to dial specific regions within the United States, such as "201," "202," "203," "205," "206," and so on.
+    - CCA2: The two-letter country code for the United States is "US."
+    
+    - CCN3: The three-digit country code for the United States is "840."
+    
+    - CCA3: The three-letter country code for the United States is "USA."
+    
+    - CIOC: The International Olympic Committee (IOC) code for the United States is "USA."
+    
+    - INDEPENDENT: It indicates that the United States is an independent country.
+    
+    - STATUS: The status of the country is "officially assigned."
+    
+    - UNMEMBER: It indicates that the United States is a member of the United Nations.
+    
+    - CURRENCIES:
+        - USD: The currency used in the United States is the United States dollar (USD).
+          - "name": The official name of the currency is "United States dollar."
+          - "symbol": The symbol used to represent the currency is "$."
+    
+    - IDD (International Direct Dialing):
+        - "root": The root international dialing code for making phone calls to the United States is "+1."
+        - "suffixes": There are several suffixes or area codes that can be appended after the root code to dial specific regions within the United States, such as "201," "202," "203," "205," "206," and so on.
 
