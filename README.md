@@ -602,50 +602,50 @@ total country DNS-Server: 250
 
 ```
 
-    - NAME:
-    
-       - "common": The common name of the country is "United States."
-    
-       - "official": The official name of the country is "United States of America."
-       
-       - "nativeName": The native name of the country in English is the same as the official name ("United States of America").
+- NAME:
 
-    - TLD (Top-Level Domain):
-       
-       - [".us"]: The internet top-level domain for websites registered in the United States is ".us."
+   - "common": The common name of the country is "United States."
 
-    - CCA2: The two-letter country code for the United States is "US."
+   - "official": The official name of the country is "United States of America."
+   
+   - "nativeName": The native name of the country in English is the same as the official name ("United States of America").
 
-    
-    - CCN3: The three-digit country code for the United States is "840."
+- TLD (Top-Level Domain):
+   
+   - [".us"]: The internet top-level domain for websites registered in the United States is ".us."
 
-    
-    - CCA3: The three-letter country code for the United States is "USA."
+- CCA2: The two-letter country code for the United States is "US."
 
-    
-    - CIOC: The International Olympic Committee (IOC) code for the United States is "USA."
 
-    
-    - INDEPENDENT: It indicates that the United States is an independent country.
+- CCN3: The three-digit country code for the United States is "840."
 
-    
-    - STATUS: The status of the country is "officially assigned."
 
-    
-    - UNMEMBER: It indicates that the United States is a member of the United Nations.
+- CCA3: The three-letter country code for the United States is "USA."
 
+
+- CIOC: The International Olympic Committee (IOC) code for the United States is "USA."
+
+
+- INDEPENDENT: It indicates that the United States is an independent country.
+
+
+- STATUS: The status of the country is "officially assigned."
+
+
+- UNMEMBER: It indicates that the United States is a member of the United Nations.
+
+
+- CURRENCIES:
+
+    - USD: The currency used in the United States is the United States dollar (USD).
+      
+      - "name": The official name of the currency is "United States dollar."
     
-    - CURRENCIES:
+      - "symbol": The symbol used to represent the currency is "$."
+
+- IDD (International Direct Dialing):
     
-        - USD: The currency used in the United States is the United States dollar (USD).
-          
-          - "name": The official name of the currency is "United States dollar."
-        
-          - "symbol": The symbol used to represent the currency is "$."
+    - "root": The root international dialing code for making phone calls to the United States is "+1."
     
-    - IDD (International Direct Dialing):
-        
-        - "root": The root international dialing code for making phone calls to the United States is "+1."
-        
-        - "suffixes": There are several suffixes or area codes that can be appended after the root code to dial specific regions within the United States, such as "201," "202," "203," "205," "206," and so on.
+    - "suffixes": There are several suffixes or area codes that can be appended after the root code to dial specific regions within the United States, such as "201," "202," "203," "205," "206," and so on.
 
